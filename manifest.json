@@ -10,7 +10,7 @@
   "preferences": [
     {
       "id": "org_roam",
-      "type": "or",
+      "type": "keyword",
       "name": "Org Roam",
       "description": "Org Roam extension",
       "default_value": "or"
