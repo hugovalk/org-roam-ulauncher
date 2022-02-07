@@ -1,0 +1,19 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Org Roam extension",
+  "description": "Ulauncher extension to interact with Org Roam.",
+  "developer_name": "Hugo Valk",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "org_roam",
+      "type": "or",
+      "name": "Org Roam",
+      "description": "Org Roam extension",
+      "default_value": "or"
+    }
+  ]
+}
